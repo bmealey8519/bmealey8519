@@ -1,16 +1,34 @@
-## Hi there 👋
+# Brandon Mealey
 
-<!--
-**bmealey8519/bmealey8519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with interests in
 
-Here are some ideas to get you started:
+- Data Analytics
+- Data Science
+- Machine Learning
+- Database Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- Python
+- C++
+- SQL
+- Excel
+
+## Technologies
+
+- Git
+- Linux
+- .NET
+- SQLite
+- PostgreSQL
+
+## Current Projects
+
+- Skin Disease Classficiation Models
+- Asana Front-End Development
+- Byte2Bite Full Stack Development
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/brandon-mealey/
+Email: mealeybrandon@icloud.com
