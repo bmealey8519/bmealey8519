@@ -25,8 +25,7 @@ Computer Science graduate with interests in
 ## Current Projects
 
 - Skin Disease Classficiation Models
-- Asana Front-End Development
-- Byte2Bite Full Stack Development
+- NBA Dashboard
 
 ## Contact
 
